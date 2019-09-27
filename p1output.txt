@@ -1,0 +1,9 @@
+>>hw2
+
+The value for the root is:
+root = -0.32219
+The value for f(x) is:
+ans = -0.000000071727
+Nuymber of iterations performed:
+iterations = 25
+
